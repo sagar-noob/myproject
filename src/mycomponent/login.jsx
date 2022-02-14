@@ -52,11 +52,7 @@ export default function Login() {
                         <span className="details">Reg no</span>
                         <input type="text"/>
                     </div>
-    
-    
-    
-    
-                    <button type="sumbit" class="sumbit-btn">Register</button>
+                 <button type="sumbit" class="sumbit-btn">Register</button>
             
     
     
